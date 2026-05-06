@@ -1,0 +1,10 @@
+# SoftwareEngineering Class - HW 1
+
+---
+
+## Team Members
+
+1. 김동빈 / 
+2. 신기연 / 
+3. 이종훈 / C011168
+4. 원지희 / 
